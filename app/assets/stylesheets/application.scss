@@ -9,4 +9,5 @@
  * Consider organizing styles into separate files for maintainability.
  */
 
- @use "bulma";
+@use "bulma";
+@import "./hangouts.scss"
